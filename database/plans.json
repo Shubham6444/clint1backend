@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "10K Subscribers Deal",
+    "price": 99.99,
+    "description": "Get 10,000 real YouTube subscribers",
+    "features": [
+      "10,000 real subscribers",
+      "Organic growth strategy",
+      "30-day delivery",
+      "Money-back guarantee",
+      "24/7 support"
+    ],
+    "popular": false,
+    "active": true,
+    "createdAt": "2025-07-30T13:56:18.910Z"
+  },
+  {
+    "id": 2,
+    "name": "100K Subscribers Deal",
+    "price": 499.99,
+    "description": "Reach 100,000 YouTube subscribers fast",
+    "features": [
+      "100,000 real subscribers",
+      "Advanced growth tactics",
+      "60-day delivery",
+      "Channel optimization",
+      "Priority support",
+      "Analytics tracking"
+    ],
+    "popular": true,
+    "active": true,
+    "createdAt": "2025-07-30T13:56:18.911Z"
+  },
+  {
+    "id": 3,
+    "name": "1M Subscribers Deal",
+    "price": 1999.99,
+    "description": "Ultimate growth package for 1 million subscribers",
+    "features": [
+      "1,000,000 real subscribers",
+      "Complete channel makeover",
+      "90-day delivery",
+      "Personal growth manager",
+      "Custom content strategy",
+      "Monetization guidance",
+      "Brand partnership opportunities"
+    ],
+    "popular": false,
+    "active": true,
+    "createdAt": "2025-07-30T13:56:18.911Z"
+  }
+]

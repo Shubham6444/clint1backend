@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "fullName": "admin",
+    "email": "admin@login.com",
+    "whatsappNumber": "8445685433",
+    "password": "$2b$10$Mg3ffHLZUA7MZl9oxjzmF.bVeg6ydHntyxt1dSC01ulwigG4xBWDG",
+    "isAdmin": false,
+    "createdAt": "2025-07-30T14:01:17.175Z",
+    "updatedAt": "2025-07-30T14:01:17.176Z"
+  }
+]
